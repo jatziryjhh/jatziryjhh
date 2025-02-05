@@ -62,10 +62,6 @@ Welcome to my little corner of the internet! I'm a passionate **Software Develop
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatziryjhh&show_icons=true&theme=radical)
 
-## 💖 GitHub Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jatziryjhh&theme=radical)
-
 ## 🌷 References
 
 - **Ing. Maximiliano Carsi Castrejón**  
