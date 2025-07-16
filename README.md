@@ -46,15 +46,15 @@ Welcome to my little corner of the internet! I'm a passionate **Software Develop
 
 ## 💼 Work Experience
 
-### **SISEC – UTEZ** (2024 – Present)
+### **SISEC – UTEZ** (2024)
 - Designed & built the **Sistema Gestor de Eventos Académicos** used by +1 k students & staff.
 - Crafted cross‑platform UIs with **React Native** and **React**.
 - Deployed RESTful back‑end with **Spring Boot**, **MySQL**, and **AWS Lightsail**.
 - Led GitHub workflow for a 4‑person dev team.
 
-### **SIEEM – UAEM** (2024 – Present)
+### **SIEEM – UAEM** (2024)
 - Architected the **Sistema de Indicadores Educativos del Estado de Morelos**.
-- Created interactive dashboards with **Laravel + Vue** and **Chart.js**.
+- Created interactive dashboards with **Laravel **.
 - Automated ETL pipelines (CSV/XLS → MySQL) with **Python/pandas**.
 - Coordinated continuous delivery with **GitHub Actions**.
 
