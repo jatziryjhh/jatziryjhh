@@ -1,16 +1,17 @@
 # 💖 Hi there, I'm Jatziry Herrera! 🌸✨
 
-Welcome to my little corner of the internet! I'm a passionate **Software Developer** with a love for everything pink, sparkly, and magical ✨. I’m focused on **Front-End** development and **Software Engineering**, with a keen interest in **IoT** and collaborative development using **GitHub**.
+Welcome to my little corner of the internet! I'm a passionate **Software Developer** with a love for everything pink, sparkly, and magical ✨. I focus on **Front‑End** development and **Software Engineering**, with a keen interest in **IoT** and collaborative development using **GitHub**.
 
 ## 🦋 About Me
 
-- 🌸 **Currently working on:** Building academic event management systems and educational indicators for the state of Morelos, Mexico! 💻✨
-- 🌱 **Currently learning:** Diving deeper into **React Native**, **Spring**, and **IoT**. 💅
-- 👯 **Looking to collaborate on:** Projects that involve creative problem-solving and enhance user experiences! 🎨💡
-- 💬 **Ask me about:** **Front-End design**, **React Native**, **Java**, **Laravel**, and **database management**. 🌷
-- 📫 **How to reach me:** You can email me anytime at [jovannaherrera23@gmail.com](mailto:jovannaherrera23@gmail.com) 💌
+- 🌸 **Student life:** 9th semester of **Software Development & Management Engineering** at UTEZ, México.
+- 🌺 **Currently working on:** **SISEC** (Academic Events Manager) & **SIEEM** (Educational Indicators System for the State of Morelos).
+- 🌱 **Currently learning:** **React Native**, **Spring Boot**, **Node.js (Alexa Skills)**, and DIY **IoT** projects.
+- 👯 **Looking to collaborate on:** Creative projects that blend UX, data, and IoT magic.
+- 💬 **Ask me about:** **Front‑End design**, **React Native**, **Java/Spring**, **Laravel/PHP**, **Python ETL (pandas, SQLAlchemy)**, and **MySQL**.
+- 📫 **Reach me at:** [jovannaherrera23@gmail.com](mailto:jovannaherrera23@gmail.com) 💌
 - 😄 **Pronouns:** She/Her 💕
-- ⚡ **Fun fact:** I’m passionate about IoT and how technology can improve lives in creative ways! 🧸💕
+- 🦄 **Fun fact:** I own more pink keyboards than regular spoons!
 
 ## 🌷 Let's Connect!
 
@@ -35,49 +36,52 @@ Welcome to my little corner of the internet! I'm a passionate **Software Develop
   </a>
 </p>
 
-## 🌸 Education & Experience
+## 🌸 Education
 
-### 🎓 Education
+| Degree | Institution | Years |
+|--------|-------------|-------|
+| **Ing. en Desarrollo y Gestión de Software** | UTEZ | 2024 – Present |
+| **TSU en Tecnologías de la Información** | UTEZ | 2022 – 2024 |
+| **Técnica en Programación** | CBTIS 166 | 2019 – 2022 |
 
-- **Tecnologías de la Información TSU** | UTEZ (2022-2024)
-- **Técnica en Programación** | CBTIS 166 (2019-2022)
+## 💼 Work Experience
 
-### 💼 Work Experience
+### **SISEC – UTEZ** (2024 – Present)
+- Designed & built the **Sistema Gestor de Eventos Académicos** used by +1 k students & staff.
+- Crafted cross‑platform UIs with **React Native** and **React**.
+- Deployed RESTful back‑end with **Spring Boot**, **MySQL**, and **AWS Lightsail**.
+- Led GitHub workflow for a 4‑person dev team.
 
-#### SISEC-UTEZ (2024 - Present)
-- Designed and developed the **Sistema Gestor de Eventos Académicos (SISEC)**.
-- Collaborated using **GitHub** for version control.
-- Built **Front-End** interfaces for **mobile and web applications** using **React Native**.
-- Implemented **Back-End** solutions using **Spring**, **MySQL**, and **AWS**.
+### **SIEEM – UAEM** (2024 – Present)
+- Architected the **Sistema de Indicadores Educativos del Estado de Morelos**.
+- Created interactive dashboards with **Laravel + Vue** and **Chart.js**.
+- Automated ETL pipelines (CSV/XLS → MySQL) with **Python/pandas**.
+- Coordinated continuous delivery with **GitHub Actions**.
 
-#### SIEEM-UAEM (2024 - Present)
-- Designed and developed the **Sistema de Indicadores Educativos del Estado de Morelos (SIEEM)**.
-- Collaborated using **GitHub** for version control.
-- Developed **Front-End** interfaces for **web applications** using **Laravel**.
-- Implemented **Back-End** solutions using **MySQL** and cloud servers.
+### **Biblioteca de los Cuentos Perdidos – Alexa Skill** (2025)
+- Designed multilingual conversational model (es‑MX, es‑ES, en‑US, en‑GB).
+- Implemented login, scoring, and story retrieval in **Node.js** on AWS Lambda.
 
-## 🌸 Skills & Tools I Love
+## 🛠️ Tech Stack
 
-💻 **Frontend:** HTML, CSS, Sass, JavaScript, React, React Native  
-🛠️ **Backend:** Java, Laravel, Spring  
-💾 **Database:** MySQL  
-🚀 **DevOps:** GitHub, AWS  
-📚 **Tools:** VSCode, NPM, Webpack, Git
+**Frontend:** HTML • CSS/Sass • JavaScript • React • React Native  
+**Backend:** Java • Spring Boot • Laravel • Node.js • Express  
+**Data/ETL:** Python • pandas • SQLAlchemy • MySQL • AWS RDS  
+**DevOps & Cloud:** GitHub • GitHub Actions • AWS (EC2, Lightsail, Lambda)  
+**Other:** VS Code • Figma • JupyterLab
 
-## 🌸 Languages
+## 🌍 Languages
 
-- **Spanish:** Native Speaker  
-- **English:**  
-  - Speaking: A2  
-  - Listening: A2  
-  - Writing: B1  
-  - Reading: B1
+| Language | Speaking | Listening | Writing | Reading |
+|----------|----------|-----------|---------|---------|
+| Spanish  | Native   | Native    | Native  | Native  |
+| English  | A2       | A2        | B1      | B1      |
 
-## ✨ Fun GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatziryjhh&show_icons=true&theme=radical)
 
-## 🌷 References
+## 🌸 References
 
 - **Ing. Maximiliano Carsi Castrejón**  
   Software Developer | UTEZ  
