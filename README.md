@@ -28,7 +28,7 @@ Welcome to my little corner of the internet! I'm a passionate **Software Develop
   <a href="https://twitter.com/jatziry_j03" target="blank">
     <img src="https://img.shields.io/badge/Twitter-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/jatziryjhh/" target="blank">
+  <a href="https://www.linkedin.com/in/jovanna-jatziry-herrera-hern%C3%A1ndez-070b2a329/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jovannaherrera23@gmail.com">
